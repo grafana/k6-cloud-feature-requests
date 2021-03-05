@@ -6,7 +6,7 @@
 
 # k6 Cloud Feature Requests
 
-Are you a [k6 Cloud](https://k6.io/) customer and have an idea of how the product could be improved? Then you've come to the right place. In this repo you can suggest, discuss and vote for ideas that you'd like to see implemented in k6 Cloud.
+Are you a [k6 Cloud](https://k6.io/) customer, or contemplating becoming one, and have an idea of how the product could be improved? Then you've come to the right place. In this repo you can suggest, discuss and vote for ideas that you'd like to see implemented in k6 Cloud.
 
 ## How do I suggest an idea?
 
