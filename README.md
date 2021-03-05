@@ -10,7 +10,7 @@ Are you a [k6 Cloud](https://k6.io/) customer, or contemplating becoming one, an
 
 ## How do I suggest an idea?
 
-Well, that's easy, just open an [issue](/k6io/cloud-feature-requests/issues) and try to apply the appropriate labels to your issue. Well, after first searching to see if there's an open issue covering your idea.
+Well, that's easy, just open an [issue](/k6io/cloud-feature-requests/issues) and try to apply the appropriate labels to your issue. Before opening a new issue though, please do a quick search to see if there's an open issue covering your idea :bow:
 
 A k6 employee, typically from the product team, will acknowlegde your issue as soon as possible, typically within 24h during regular week days.
 
