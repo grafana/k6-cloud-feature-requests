@@ -1,0 +1,36 @@
+name: Feature request
+description: Use this template for suggesting new features.
+title: "Feature request:"
+labels: ["status/needs-triage"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Feature description"
+      description: Please describe clearly and concisely the missing capability.
+    validations:
+      required: true
+  - type: textarea
+    id: how
+    attributes:
+      label: How does this help you?
+      description: Describe the what or how this feature would impact how you use k6 Cloud.
+    validations:
+      required: false
+  - type: dropdown
+    attributes:
+      label: How often do you come across needing a feature like this?
+      options: [
+        "Daily", 
+        "Weekly",
+        "Monthly"
+      ]
+    validations:
+      required: false
+  - type: textarea
+    id: other
+    attributes:
+      label: Anything else to add?
+      description: Please share additional details that do not fit in one of the above forms
+    validations:
+      required: false
