@@ -1,6 +1,5 @@
 name: Feature request
 description: Use this template for suggesting new features.
-title: "Feature request:"
 labels: ["status/needs-triage"]
 body:
   - type: textarea
