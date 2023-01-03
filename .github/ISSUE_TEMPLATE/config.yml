@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions & Help
+    url: https://community.k6.io
+    about: Please ask and answer questions here.
+  - name: Documentation
+    url: https://k6.io/docs/
+    about: k6 Cloud and OSS documentation
