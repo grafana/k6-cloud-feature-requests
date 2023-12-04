@@ -1,3 +1,11 @@
+### This Repository is Deprecated
+
+We are no longer accepting new feature requests in this repository. Now that k6 is a part of Grafana Cloud, we are aligning our internal processes with the rest of Grafana. If you have an idea you would like to submit as a feature request for cloud - please work with your Account Manager, Solution Engineer, or the support team to ensure the feature request is submitted.
+
+
+
+
+
 <p align="center"><a href="https://k6.io/"><img src="assets/logo.svg" alt="k6" width="220" height="213" /></a></p>
 <br/>
 <img src="assets/github-hr.png" alt="---" />
