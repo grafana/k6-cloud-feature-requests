@@ -1,6 +1,51 @@
-### This Repository is Deprecated
+# STOP READ THIS This Repository is Deprecated
 
 We are no longer accepting new feature requests in this repository. Now that k6 is a part of Grafana Cloud, we are aligning our internal processes with the rest of Grafana. If you have an idea you would like to submit as a feature request for cloud - please work with your Account Manager, Solution Engineer, or the support team to ensure the feature request is submitted.
+
+We have moved open issues to the new process. Still open issues have been closed as "not planned" 
+
+
+# 
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
